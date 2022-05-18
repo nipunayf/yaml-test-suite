@@ -1,2 +1,4 @@
-"Bare document"
-"%!PS-Adobe-2.0 # Not the first line\n"
+[
+    "Bare document",
+    "%!PS-Adobe-2.0 # Not the first line\n"
+]

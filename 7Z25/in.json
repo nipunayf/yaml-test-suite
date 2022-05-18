@@ -1,4 +1,6 @@
-"scalar1"
-{
-  "key": "value"
-}
+[
+  "scalar1",
+  {
+    "key": "value"
+  }
+]
